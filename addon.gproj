@@ -1,5 +1,5 @@
 GameProject {
- ID "PostureChecker"
+ ID "AR_PostureChecker"
  GUID "65E80DCA7BA3CF8A"
  TITLE "Posture Checker"
  Dependencies {
